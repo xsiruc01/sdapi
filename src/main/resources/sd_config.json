@@ -1,0 +1,39 @@
+[
+    {
+        "type": "Alvao",
+        "name": "Alvao",
+        "dbString": "jdbc:jtds:sqlserver://127.0.0.1:1433/SQLEXPRESS;DatabaseName=alvaodb;user=pavel;password=pavel"
+    },
+    {
+        "type": "Alvao",
+        "name": "Alvao_2",
+        "dbString": "jdbc:jtds:sqlserver://127.0.0.1:1433/SQLEXPRESS;DatabaseName=AlvaoSample;user=pavel;password=pavel"
+    },
+    {
+        "type": "Freshservice",
+        "name": "Freshservice",
+        "endpoint": "https://sirucek.freshservice.com",
+        "login": "schirda@gmail.com",
+        "password": "5sirucek5"
+    },
+    {
+        "type": "Web help desk",
+        "name": "Web help desk",
+        "endpoint": "http://127.0.0.1:8081",
+        "login": "admin",
+        "password": "admin"
+    },
+    {
+        "type": "iTop",
+        "name": "itop",
+        "endpoint": "http://localhost/web/webservices/rest.php?version=1.3",
+        "login": "admin",
+        "password": "admin"
+    },
+    {
+        "type": "ManageEngine",
+        "name": "ManageEngine",
+        "endpoint": "http://localhost:8080",
+        "apiKey": "A7764F62-F3D9-4EB3-A735-71D346399524"
+    }
+]
